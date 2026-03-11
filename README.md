@@ -10,11 +10,9 @@ A Windows Forms desktop application built with **C# .NET** and **Entity Framewor
 - [Solution Structure](#solution-structure)
 - [Database Project](#database-project-db)
 - [Windows Forms Project](#windows-forms-project-final_project)
-- [Database Schema](#database-schema)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Forms Overview](#forms-overview)
+
 
 ---
 
