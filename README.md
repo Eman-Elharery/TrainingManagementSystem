@@ -61,7 +61,7 @@ TrainingManagementSystem.sln
 
 ## Database Project (db)
 
-This is a **Class Library** that contains everything related to the database layer.
+This is a **Console Application** that contains everything related to the database layer.
 
 ### Models
 
