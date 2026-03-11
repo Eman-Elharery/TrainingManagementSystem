@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DB_Side/DB_Side.csproj" />
+  <Project Path="Final_Project/Final_Project.csproj" />
+</Solution>
