@@ -9,6 +9,7 @@ A Windows Forms desktop application built with **C# .NET** and **Entity Framewor
 - [About the Project](#about-the-project)
 - [Solution Structure](#solution-structure)
 - [Database Project](#database-project-db)
+- [ERD](#ERD) 
 - [Windows Forms Project](#windows-forms-project-final_project)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -90,6 +91,9 @@ public DbSet<CourseStudent> CourseStudents { get; set; }
 
 All IDs are configured as **Identity (auto-increment)** — the database generates them automatically.
 
+---
+## ERD
+![ERD](ERD.jpeg)
 ---
 
 ## Windows Forms Project (Final_Project)
